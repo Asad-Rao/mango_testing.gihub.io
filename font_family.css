@@ -1,0 +1,29 @@
+@font-face {
+    font-family:CaveatBrush-Regular;
+    src: url("Font_family/CaveatBrush-Regular.ttf");
+}
+@font-face {
+    font-family:GlacialIndifference-Regular;
+    src: url("Font_family/GlacialIndifference-Regular.otf");
+}
+
+@font-face {
+    font-family:GlacialIndifference-Bold;
+    src: url("Font_family/GlacialIndifference-Bold.otf");
+}
+@font-face {
+    font-family:JonathanBall-Acre-Medium;
+    src: url("Font_family/JonathanBall-Acre-Medium.otf");
+}
+@font-face {
+    font-family:BebasNeueRegular;
+    src: url("Font_family/BebasNeueRegular.otf");
+}
+@font-face {
+    font-family:BebasNeueThin;
+    src: url("Font_family/BebasNeueThin.otf");
+}
+@font-face {
+    font-family:BebasNeueLight;
+    src: url("Font_family/BebasNeueLight.otf");
+}
